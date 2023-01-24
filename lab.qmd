@@ -3,48 +3,33 @@ title: "Lab 1: Arbuthnot"
 author: Firstname Lastname
 ---
 
-## Part I: Understanding the Context of the Data
+The first several questions pertain to the `arbuthnot` data frame found in `library(stat20data)`.
 
 #### Question 1
-What question did John Arbuthnot set out to answer in collecting this data?
-
-#### Question 2
-What is the unit of observation in the original christening records? What are the possible variables that may have been recorded?
-
-#### Question 3
-What do you think the probability is that a newborn child is recorded as a girl? What form of evidence or reasoning did you use to come to that determination?
-
-## Part II: Computing on the Data
-
-#### Question 4
-What does every row in the data frame published by John Arbuthnot correspond to? What are the names of the variables and what is the type of each one?
-
-#### Question 5
 What is the time frame covered by Arbuthnot's data?
 
-#### Question 6
+#### Question 2
 Which year saw the greatest number of children christened?
 
-#### Question 7
+#### Question 3
 What is the proportion of girls christened in 1700?
 
-#### Question 8
+#### Question 4
 What is the trend over time in the total number of children christened? Please answer with a plot and written interpretation.
 
-#### Question 9
+#### Question 5
 What is the trend over time in the proportion of girls christened? Please answer with a plot and written interpretation.
 
-## Part III: Extensions
+The remaining questions pertain to the `present` data frame found in `library(stat20data)`.
 
-#### Question 10
+#### Question 6
 What is the time frame covered by the present-day data?
 
-#### Question 11
+#### Question 7
 In terms of general magnitude (size), how do the counts in Arbuthnot's data compare to the counts in the present-day data?
 
-#### Question 12
+#### Question 8
 What is the trend over time in the proportion of births that are girls? Please answer with a plot and written interpretation.
 
-#### Question 13
+#### Question 9
 Based on these two data sets, what claim are you prepared to make regarding John Arbuthnot's original question? What reservations, if any, do you have about using this data to make the claim?
-
